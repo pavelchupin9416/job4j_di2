@@ -1,4 +1,4 @@
-# job4j_todo
+# job4j_di2
 
 http://job4j.ru/
 Проект для изучения Dependency Injection в Spring.
